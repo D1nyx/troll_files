@@ -1,3 +1,4 @@
+' Ao executar, este código cria uma pasta "AposentadorDeDiscos" dentro do "C:\Temp\" que no interior estaria a gerar pastas infinitas- Para parar reinicie o PC
 Dim fileSystem, rootFolder, i
 Set fileSystem = CreateObject("Scripting.FileSystemObject")
 
